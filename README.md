@@ -57,7 +57,7 @@ The final submission should state whether a standard API was implemented, accord
 **Live URL:** file:///C:/Users/HP/Downloads/skillswap%20(1)%20(1).html
 
 ## Repository
-**GitHub:** `ADD_GITHUB_URL_HERE`
+**GitHub:** ` https://github.com/priyakumari25191-glitch
 
 ## Tech / Build
 Built as a web application with Lovable-assisted development.
